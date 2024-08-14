@@ -37,3 +37,10 @@ save the day - and sets forth into the dungeon.
 - [ ] 6. Move to a data-driven design for spawning enemies.
 - [ ] 7. Consider some visual effects to make combat more visceral.
 - [ ] 8. Consider keeping score.
+
+##### Resourses
+
+The dungeon floor, wall, and adventurer graphics were kindly provided by [Buch for free](https://opengameart.org/content/unfinished-dungeon-tileset).
+Potion and scroll graphics are from [Melissa Krautheim’s Fantasy Magic Set](https://opengameart.org/content/fantasy-magic-set).
+Weaponry is from [Melle’s Fantasy Sword Set](https://opengameart.org/content/fantasy-sword-set).
+Monster graphics are from the game [Dungeon Crawl Stone Soup (CC0 license), packaged by Chris Hamons](https://github.com/crawl/tiles).
